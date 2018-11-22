@@ -2,10 +2,15 @@
 
 ## Table of Contents
 
-1. [Requirements](#requirements)
-2. [Setup](#setup)
-3. [Run](#run)
-4. [Build](#build)
+1. [Demo](#demo)
+2. [Requirements](#requirements)
+3. [Setup](#setup)
+4. [Run](#run)
+5. [Build](#build)
+
+## Demo
+
+[Demo by Surge.sh](http://parcel-react-mobx.surge.sh/)
 
 ## Requirements
 
