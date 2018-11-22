@@ -1,0 +1,32 @@
+{
+  "name": "parcel-react-mobx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html -d dev --target=browser",
+    "build": "parcel build src/index.html"
+  },
+  "author": "William Sena",
+  "license": "ISC",
+  "dependencies": {
+    "glamor": "^2.20.40",
+    "json5": "^2.1.0",
+    "mobx": "^5.6.0",
+    "mobx-react": "^5.4.2",
+    "mobx-react-devtools": "^6.0.3",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0-0",
+    "@babel/plugin-proposal-class-properties": "^7.1.0",
+    "@babel/plugin-proposal-decorators": "^7.1.6",
+    "@babel/preset-env": "^7.1.6",
+    "@babel/preset-react": "^7.0.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "parcel-bundler": "^1.10.3",
+    "sass": "^1.15.1"
+  }
+}
